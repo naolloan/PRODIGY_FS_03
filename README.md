@@ -111,10 +111,14 @@ Just open `frontend/index.html` in your browser. Make sure the backend server is
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/f8969d51-44b2-422b-8873-e4bf82a2fe61)
-![image](https://github.com/user-attachments/assets/d83193ef-9c26-43f8-ad15-dc26412dd58a)
-![image](https://github.com/user-attachments/assets/7302e84f-b0db-489c-af6f-99b3c72c8e0c)
-![image](https://github.com/user-attachments/assets/675d4410-380b-4bd9-a374-20fc6366dcac)
+### 🏠 Homepage
+![Homepage](screenshots/homepage.png)
+
+### 🛒 Cart View
+![Cart](screenshots/cart.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](screenshots/admin-panel.png)
 
 
 ## 👨‍💻 Author
@@ -122,7 +126,7 @@ Just open `frontend/index.html` in your browser. Make sure the backend server is
 **Naol Feyisa**
 Intern at Prodigy InfoTech
 Project: PRODIGY\_FS\_03
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@naolloan](https://github.com/naolloan)
 
 ---
 
