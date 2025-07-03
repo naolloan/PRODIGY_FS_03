@@ -25,7 +25,6 @@
 
 ### 🔹 Frontend
 - HTML5, CSS3, JavaScript
-- Bootstrap for styling
 
 ### 🔹 Backend
 - Node.js with Express
@@ -109,18 +108,6 @@ Just open `frontend/index.html` in your browser. Make sure the backend server is
 ✅ **Task 3:** Product CRUD, image uploads, category filtering
 ✅ **Task 4:** Order tracking, admin order management, user-side cart + checkout
 
-## 📸 Screenshots
-
-### 🏠 Homepage
-![Homepage](Screenshots/homepage.jpg)
-
-### 🛒 Cart View
-![Cart](Screenshots/cart.jpg)
-
-### 🛠️ Admin Dashboard
-![Admin Dashboard](Screenshots/admin-panel.jpg)
-
-
 ## 👨‍💻 Author
 
 **Naol Feyisa**
@@ -128,10 +115,7 @@ Intern at Prodigy InfoTech
 Project: PRODIGY\_FS\_03
 GitHub: [@naolloan](https://github.com/naolloan)
 
----
-
 ## 📄 License
 
 This project is for educational/demo purposes and is not licensed for commercial use.
 
-```
