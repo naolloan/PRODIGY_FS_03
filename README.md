@@ -112,13 +112,13 @@ Just open `frontend/index.html` in your browser. Make sure the backend server is
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshots/homepage.jpg)
 
 ### 🛒 Cart View
-![Cart](screenshots/cart.png)
+![Cart](Screenshots/cart.jpg)
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard](screenshots/admin-panel.png)
+![Admin Dashboard](Screenshots/admin-panel.jpg)
 
 
 ## 👨‍💻 Author
