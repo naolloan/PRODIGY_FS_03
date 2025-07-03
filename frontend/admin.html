@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Admin Panel</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="navbar-container"></div>
+
+  <main class="admin-container">
+    <h2>Admin Panel</h2>
+
+    <div class="admin-product-search-filter">
+      <div><input type="text" id="admin-search" placeholder="🔍 Search products ..." /></div>
+      <div class="filter-container">
+        <select id="admin-category-filter"><option value="">All Categories</option></select>
+      </div>
+      <div class="button-wrapper">
+        <button class="add-product-btn" onclick="showAddProductForm()">➕ Add New Product</button>
+      </div>
+    </div>
+
+    <div id="product-form" style="display: none;"></div>
+
+    <h3>📦 All Products</h3>
+    <div id="admin-products" class="product-grid"></div>
+  </main>
+
+  <script src="js/navbar.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>
