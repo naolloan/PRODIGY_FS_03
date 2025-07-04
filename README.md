@@ -108,6 +108,23 @@ Just open `frontend/index.html` in your browser. Make sure the backend server is
 ✅ **Task 3:** Product CRUD, image uploads, category filtering
 ✅ **Task 4:** Order tracking, admin order management, user-side cart + checkout
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](Screenshots/homepage.jpg)
+
+### 🛒 Cart View
+![Cart](Screenshots/cart.jpg)
+
+### 🛒 Order history
+![Order History](Screenshots/order-history.jpg)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](Screenshots/admin-panel.jpg)
+
+### 🛒 Orders View
+![Orders](Screenshots/view-orders.jpg)
+
 ## 👨‍💻 Author
 
 **Naol Feyisa**
