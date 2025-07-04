@@ -111,7 +111,7 @@ Just open `frontend/index.html` in your browser. Make sure the backend server is
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](Screenshots/homepage.jpg)
+![Homepage](screenshots/homepage.jpg)
 
 ### 🛒 Cart View
 ![Cart](Screenshots/cart.jpg)
