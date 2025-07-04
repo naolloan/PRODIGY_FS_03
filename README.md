@@ -125,6 +125,7 @@ Just open `frontend/index.html` in your browser. Make sure the backend server is
 ### 🛒 Orders View
 ![Orders](Screenshots/view-orders.jpg)
 
+
 ## 👨‍💻 Author
 
 **Naol Feyisa**
